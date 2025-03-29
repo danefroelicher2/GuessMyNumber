@@ -1,1 +1,1 @@
-hello
+Small game application. You pick a number and then the system tries to guess said number. There are bonuses and penalities based on if the system is close to your number or not. Includes a score tracker so if you play multiple times you will have that historical count. 
